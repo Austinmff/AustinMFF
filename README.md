@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Austin Manoel Farias Ferreira 👋
+# Hi, I'm Austin Farias 👋
 
 ### Junior Data Engineer | Python | SQL | ETL | Data Processing | Analytics
 
