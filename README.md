@@ -2,7 +2,7 @@
   
   # Olá, eu sou o Austin Manoel Farias Ferreira! 👋
   
-  ### Analista de Sistemas | Product Owner | Desenvolvedor
+  ### Engenheiro de Dados
 
   <p>
     Profissional formado em <b>Análise e Desenvolvimento de Sistemas</b> com atuação híbrida entre técnica e produto.<br>
@@ -81,9 +81,7 @@ Aqui estão as qualificações técnicas e metodológicas que conquistei:
 | Certificação | Instituição | Foco |
 | :--- | :--- | :--- |
 | **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy | Framework Scrum, Papéis e Eventos |
-| **Agile Explorer** | IBM | Mindset Ágil e Trabalho Colaborativo |
 | **Business Intelligence** | FIAP | Análise e Visualização de Dados |
-| **Customer Experience Management** | FIAP | User Experience (UX) e Produtos |
 | **Administração de Banco de Dados** | IFRS | Modelagem e Normalização SQL |
 | **Gestão de Projetos com Scrum** | IFRS | Planejamento, Execução Ágil, Planejamento, Estimativas e Releases |
 
