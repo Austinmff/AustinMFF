@@ -1,128 +1,129 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=99E64D&center=true&vCenter=true&width=800&height=100&lines=AUSTIN+FARIAS" alt="Austin Farias" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A9EFF&height=120&section=header&text=Austin%20Farias&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descSize=20&descAlignY=88&descColor=cce4ff" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Anis-H/Rick-and-Morty-README/main/assets/portal.gif" width="55%" />
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software-Developer-99E64D?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Automation_%7C_Data_Pipelines-99E64D?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Java_%7C_Spring_Boot-99E64D?style=flat-square&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/Java_%7C_Spring_Boot-Backend-4A9EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/React_%7C_TypeScript-Frontend-4A9EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_%7C_AWS-Data_Pipelines-4A9EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Presencial_%7C_Remoto_%7C_Portugal-brightgreen?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+## 👋 Sobre mim
+
+Desenvolvedor full-stack júnior com experiência em APIs RESTful com **Java e Spring Boot**, interfaces web com **React e TypeScript**, e pipelines de dados com **Python e AWS**.
+
+Formado em Análise e Desenvolvimento de Sistemas pela UNIT. Atuei como **monitor de backend** na universidade, auxiliando alunos em Java, JavaScript e SQL. Passei pelo setor público como estagiário na **SEFAZ-SE**, automatizando processos de auditores fiscais com Python.
+
+Nos últimos meses construí **5 projetos** cobrindo back-end, dados e full-stack. Busco minha primeira oportunidade como desenvolvedor — aberto a posições no Brasil ou em Portugal.
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+<table>
   <tr>
-    <td width="60%" valign="top">
-      <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=99E64D&width=350&lines=Sobre+o+Desenvolvedor" alt="Sobre Mim" />
-      <p align="justify">
-        Sou um <b>Desenvolvedor de Software</b> especializado em criar soluções que automatizam processos e gerenciam fluxos de dados complexos. 
-        <br><br>
-        Minha base principal envolve o desenvolvimento de <b>pipelines de dados</b> e <b>automações</b> eficientes com Python, além de possuir sólida experiência na construção de APIs e aplicações web robustas utilizando <b>Java e Spring Boot</b>.
-      </p>
-      <img src="https://img.shields.io/badge/Core_Skill-Solving_Complexity-black?style=for-the-badge&color=99E64D" />
+    <td><b>Back-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
-    <td width="5%" valign="top"></td>
-    <td width="35%" valign="top" align="center">
-      <br><br>
-      <img src="https://raw.githubusercontent.com/jgarciaguimaraes/jgarciaguimaraes/main/src/assets/images/rick-morty.png" width="200" />
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square" />
     </td>
   </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=99E64D&center=true&width=500&lines=Tecnologias+e+Ferramentas" alt="Tech Stack" />
-</div>
-
-<br>
-
-<div align="center">
-
-**Backend & Web** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Automação & Pipelines** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-99E64D?style=for-the-badge&logo=postgresql&logoColor=black)
-
-**Infra & Dev** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=99E64D&center=true&width=500&lines=Projetos+Principais" alt="Projetos" />
-</div>
+## 🚀 Projetos em destaque
 
-<br>
+### 🏋️ [FitMeet — Plataforma Full-Stack de Atividades](https://github.com/bc-fullstack-07/Austin-Manoel-Farias-Ferreira)
+> Plataforma completa para agendamento de atividades físicas ao ar livre — projeto desenvolvido durante o bootcamp SysMap (2026).
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>Fiscal Audit Pipeline</b><br>
-      <small>Automação de preparação de dados e relatórios fiscais.</small><br>
-      <img src="https://img.shields.io/badge/Stack-Python_%7C_Pandas-99E64D?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <b>ENEM Data Pipeline</b><br>
-      <small>Processamento de milhões de linhas com Parquet e Python.</small><br>
-      <img src="https://img.shields.io/badge/Stack-Python_%7C_Parquet-99E64D?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <b>E-commerce SQL Analysis</b><br>
-      <small>Análise avançada de negócios e retenção via SQL.</small><br>
-      <img src="https://img.shields.io/badge/Stack-PostgreSQL_%7C_SQL-99E64D?style=flat-square" />
-    </td>
-  </tr>
-</table>
+**Back-end:** Java 25 · Spring Boot 4 · PostgreSQL · JWT · AWS S3/LocalStack · Liquibase · Swagger/OpenAPI  
+**Front-end:** React · TypeScript · TanStack Query · Zustand · Zod · Tailwind CSS · Leaflet  
+**Destaques:** Sistema de XP, níveis e conquistas · Aprovação de participantes · Geocoding via Nominatim · Testes unitários (JUnit) · Docker Compose
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&color=99E64D&center=true&width=500&lines=Estat%C3%ADsticas+de+Desenvolvimento" alt="Estatísticas" />
-</div>
+### 📊 [ENEM Data Pipeline](https://github.com/Austinmff/enem-pipeline)
+> Pipeline ETL para os microdados do ENEM 2023 — **3,9 milhões de registros, 2 GB+ de dados brutos**.
+
+**Stack:** Python · Pandas · Apache Parquet · AWS S3 · AWS Glue · Amazon Athena · Streamlit  
+**Destaques:** Leitura em chunks · Particionamento por UF no S3 · Catálogo AWS Glue · Dashboard interativo conectado direto ao S3
+
+---
+
+### 🧾 [Fiscal Audit Pipeline](https://github.com/Austinmff/fiscal-audit-pipeline)
+> Automação de pipeline ETL para cálculo proporcional de resultados financeiros por estado no mercado de energia.
+
+**Stack:** Python · Pandas · Logging  
+**Destaques:** Regra de rateio por carga energética · Logging estruturado · Substituição completa de planilhas manuais
+
+---
+
+### 🛒 [E-commerce SQL Analysis](https://github.com/Austinmff/ecommerce-sql-analysis)
+> Análise avançada de comportamento de clientes, retenção e churn.
+
+**Stack:** PostgreSQL · CTEs · Window Functions · Análise de Coorte  
+**Destaques:** Segmentação de clientes · Identificação de padrões de churn · Queries otimizadas e reutilizáveis
+
+---
+
+## 📈 Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Austinmff&show_icons=true&theme=radical&hide_border=true&title_color=99E64D&icon_color=99E64D&bg_color=0D1117" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinmff&layout=compact&theme=radical&hide_border=true&title_color=99E64D&icon_color=99E64D&bg_color=0D1117" height="170" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=Austinmff&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Austinmff&theme=github_dark&exclude=&" height="165" alt="Top Languages" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&color=99E64D&center=true&width=400&lines=Vamos+Conversar%3F" alt="Contato" />
-  
-  <br>
+## 📬 Contato
 
-  <a href="https://www.linkedin.com/in/austin-farias">
-    <img src="https://img.shields.io/badge/LINKEDIN-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:austinmff@outlook.com">
-    <img src="https://img.shields.io/badge/EMAIL-Enviar_Mensagem-99E64D?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin_Farias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-farias)
+&nbsp;
+[![E-mail](https://img.shields.io/badge/E--mail-austinmff%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:austinmff@outlook.com)
+
 </div>
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=99E64D&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A9EFF&height=60&section=footer" width="100%" />
 </div>
