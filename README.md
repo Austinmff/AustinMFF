@@ -1,129 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A9EFF&height=120&section=header&text=Austin%20Farias&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer&descSize=20&descAlignY=88&descColor=cce4ff" width="100%" />
+# Austin Farias
 
-<p>
-  <img src="https://img.shields.io/badge/Java_%7C_Spring_Boot-Backend-4A9EFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/React_%7C_TypeScript-Frontend-4A9EFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python_%7C_AWS-Data_Pipelines-4A9EFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_to_Work-Presencial_%7C_Remoto_%7C_Portugal-brightgreen?style=flat-square" />
-</p>
+**Data Engineer & Full-Stack Developer**
+Aracaju, Brazil 🇧🇷
 
-</div>
+🌍 English · [Português](README.pt-BR.md)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 👋 Sobre mim
-
-Desenvolvedor full-stack júnior com experiência em APIs RESTful com **Java e Spring Boot**, interfaces web com **React e TypeScript**, e pipelines de dados com **Python e AWS**.
-
-Formado em Análise e Desenvolvimento de Sistemas pela UNIT. Atuei como **monitor de backend** na universidade, auxiliando alunos em Java, JavaScript e SQL. Passei pelo setor público como estagiário na **SEFAZ-SE**, automatizando processos de auditores fiscais com Python.
-
-Nos últimos meses construí **5 projetos** cobrindo back-end, dados e full-stack. Busco minha primeira oportunidade como desenvolvedor — aberto a posições no Brasil ou em Portugal.
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Front-end</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Dados & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square" />
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-farias)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austinmff@outlook.com)
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 👋 About me
 
-### 🏋️ [FitMeet — Plataforma Full-Stack de Atividades](https://github.com/bc-fullstack-07/Austin-Manoel-Farias-Ferreira)
-> Plataforma completa para agendamento de atividades físicas ao ar livre — projeto desenvolvido durante o bootcamp SysMap (2026).
+I'm from Aracaju, in northeastern Brazil. I finished my degree in Systems Analysis and Development at UNIT in December 2025, and I've been building things with data and code ever since: pipelines that turn messy public data into something clean and trustworthy, and apps that people can actually use.
 
-**Back-end:** Java 25 · Spring Boot 4 · PostgreSQL · JWT · AWS S3/LocalStack · Liquibase · Swagger/OpenAPI  
-**Front-end:** React · TypeScript · TanStack Query · Zustand · Zod · Tailwind CSS · Leaflet  
-**Destaques:** Sistema de XP, níveis e conquistas · Aprovação de participantes · Geocoding via Nominatim · Testes unitários (JUnit) · Docker Compose
+I also like explaining data in a way anyone can follow, not only people who work with it. If someone on the street can't understand the result, I haven't finished the job.
 
----
+## ⭐ Featured projects
 
-### 📊 [ENEM Data Pipeline](https://github.com/Austinmff/enem-pipeline)
-> Pipeline ETL para os microdados do ENEM 2023 — **3,9 milhões de registros, 2 GB+ de dados brutos**.
+### 🇪🇺 [DataFlow EU](https://github.com/Austinmff/dataflow-eu)
+A batch pipeline that collects public economic indicators from Eurostat and the European Central Bank, organizes them in Bronze, Silver and Gold layers, checks their quality, and shows everything in a dashboard in Portuguese, English and Spanish.
 
-**Stack:** Python · Pandas · Apache Parquet · AWS S3 · AWS Glue · Amazon Athena · Streamlit  
-**Destaques:** Leitura em chunks · Particionamento por UF no S3 · Catálogo AWS Glue · Dashboard interativo conectado direto ao S3
+- **28** data quality checks · **93%** test coverage on the extractors
+- The whole stack runs with **one command** (Docker Compose)
 
----
+`Airflow` `dbt` `PostgreSQL` `Great Expectations` `GitHub Actions` `Streamlit`
 
-### 🧾 [Fiscal Audit Pipeline](https://github.com/Austinmff/fiscal-audit-pipeline)
-> Automação de pipeline ETL para cálculo proporcional de resultados financeiros por estado no mercado de energia.
+### 🎓 ENEM 2023 Pipeline(https://github.com/Austinmff/enem-pipeline)
+Processing of the ENEM 2023 microdata (more than **3.9 million records**, about 2 GB) in the cloud, with a dashboard on top.
 
-**Stack:** Python · Pandas · Logging  
-**Destaques:** Regra de rateio por carga energética · Logging estruturado · Substituição completa de planilhas manuais
+`Python` `Polars` `AWS S3` `Glue` `Athena` `Streamlit`
 
----
+## 🗂️ More projects
 
-### 🛒 [E-commerce SQL Analysis](https://github.com/Austinmff/ecommerce-sql-analysis)
-> Análise avançada de comportamento de clientes, retenção e churn.
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [Energy Market Audit Pipeline](https://github.com/Austinmff/pipeline-auditoria-mcp) | Validates and audits energy market data, with logging | Python, Pandas |
+| [E-commerce SQL Analysis](https://github.com/Austinmff/sql-ecommerce) | Cohort analysis and customer behavior | PostgreSQL, CTEs, window functions |
+| [World Cup 2026 Simulator](https://github.com/Austinmff/copa-2026-simulador) *(Created for study and research)* | Monte Carlo simulation of the tournament, with Poisson-distributed goals | Python |
 
-**Stack:** PostgreSQL · CTEs · Window Functions · Análise de Coorte  
-**Destaques:** Segmentação de clientes · Identificação de padrões de churn · Queries otimizadas e reutilizáveis
+## 🧰 Tools I use
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-CD792C?logo=polars&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-## 📈 Estatísticas
+## 🛣️ Where I've been
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Austinmff&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF" height="165" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Austinmff&theme=github_dark&exclude=&" height="165" alt="Top Languages" />
-</div>
+- **SEFAZ-SE** · Process and Data Automation Intern: Python scripts to automate the routines of tax auditors, and documentation of business rules for non-technical teams
+- **ConectaBem** · Volunteer Product Owner: requirements, backlog and delivery follow-up
+- **UNIT** · Backend Teaching Assistant: Java, SQL and debugging support for students
+- **Sysmap** · Full-stack bootcamp participant
 
----
+## 🤝 Let's talk
 
-## 📬 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin_Farias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-farias)
-&nbsp;
-[![E-mail](https://img.shields.io/badge/E--mail-austinmff%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:austinmff@outlook.com)
-
-</div>
-
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A9EFF&height=60&section=footer" width="100%" />
-</div>
+I like seeing what other people in the field are building, swapping ideas and learning from their studies. If you have a tip, a critique or something I should read, open an issue or send me a message.
