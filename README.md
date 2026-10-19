@@ -36,7 +36,7 @@ A batch pipeline that collects public economic indicators from Eurostat and the 
 
 `Airflow` `dbt` `PostgreSQL` `Great Expectations` `GitHub Actions` `Streamlit`
 
-### 🎓 ENEM 2023 Pipeline(https://github.com/Austinmff/enem-pipeline)
+### 🎓 [ENEM 2023 Pipeline](https://github.com/Austinmff/enem-pipeline)
 Processing of the ENEM 2023 microdata (more than **3.9 million records**, about 2 GB) in the cloud, with a dashboard on top.
 
 `Python` `Polars` `AWS S3` `Glue` `Athena` `Streamlit`
